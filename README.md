@@ -1,4 +1,7 @@
 # Anote
+
+Demo: https://www.linkedin.com/posts/theogene-micomyiza-536020144_swift-activity-6554537279250055168-a9nV
+
 Summary: A note taking App that helps organize notes efficiently
 
 Inspiration: Sometimes I use my phone to take notes, but as a visual learner I find it hard to keep a connection 
